@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\viewmodels\\zodiacsignviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\viewmodels\\zodiacsignviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\models\\zodiacmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\models\\zodiacmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\AssemblyInfo.cs",
+              "RelativeToolTip": "trokhymchuk_wpf\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:24:31.834Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\App.xaml",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\App.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\App.xaml",
+              "RelativeToolTip": "trokhymchuk_wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-28T22:24:34.227Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\App.xaml.cs",
+              "RelativeToolTip": "trokhymchuk_wpf\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:24:40.1Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZodiacSignViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\ViewModels\\ZodiacSignViewModel.cs",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\ViewModels\\ZodiacSignViewModel.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\ViewModels\\ZodiacSignViewModel.cs",
+              "RelativeToolTip": "trokhymchuk_wpf\\ViewModels\\ZodiacSignViewModel.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA5wEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:49:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "trokhymchuk_wpf\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-28T23:40:07.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZodiacModel.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\Models\\ZodiacModel.cs",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\Models\\ZodiacModel.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\Models\\ZodiacModel.cs",
+              "RelativeToolTip": "trokhymchuk_wpf\\Models\\ZodiacModel.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA1wDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T23:42:36.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\1\\trokhymchuk_wpf\\trokhymchuk_wpf\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "trokhymchuk_wpf\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:23:25.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
