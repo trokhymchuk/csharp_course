@@ -52,7 +52,7 @@ namespace KMA_ProgrammingCsharp2024.ViewModels
             }
             if(_persons == null)
             {
-                _persons = new ObservableCollection<Person>(GenerateRandomPersons(10));
+                _persons = new ObservableCollection<Person>(GenerateRandomPersons(50));
             }
             _tmp = new ObservableCollection<Person>(_persons);
 

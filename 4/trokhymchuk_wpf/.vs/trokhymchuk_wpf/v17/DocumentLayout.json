@@ -3,39 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\viewmodels\\personlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\models\\personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\models\\personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\models\\personlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\addperson.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\addperson.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\views\\addperson.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\addperson.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\views\\addperson.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\views\\addperson.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PersonListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\ViewModels\\PersonListViewModel.cs",
               "RelativeDocumentMoniker": "trokhymchuk_wpf\\ViewModels\\PersonListViewModel.cs",
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\ViewModels\\PersonListViewModel.cs",
               "RelativeToolTip": "trokhymchuk_wpf\\ViewModels\\PersonListViewModel.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAswDgAAAAsAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T21:02:36.656Z",
               "EditorCaption": ""
@@ -70,8 +70,7 @@
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\Views\\MainWindow.xaml",
               "RelativeToolTip": "trokhymchuk_wpf\\Views\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-05T20:51:30.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T20:51:30.524Z"
             },
             {
               "$type": "Document",
@@ -82,8 +81,7 @@
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\Views\\AddPerson.xaml",
               "RelativeToolTip": "trokhymchuk_wpf\\Views\\AddPerson.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-05T17:56:46.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T17:56:46.474Z"
             },
             {
               "$type": "Document",
@@ -95,18 +93,17 @@
               "RelativeToolTip": "trokhymchuk_wpf\\Views\\AddPerson.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T17:52:55.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T17:52:55.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\Models\\Person.cs",
               "RelativeDocumentMoniker": "trokhymchuk_wpf\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\Models\\Person.cs",
               "RelativeToolTip": "trokhymchuk_wpf\\Models\\Person.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAAAsAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T17:44:07.413Z",
               "EditorCaption": ""
@@ -120,8 +117,7 @@
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\4\\trokhymchuk_wpf\\trokhymchuk_wpf\\App.xaml",
               "RelativeToolTip": "trokhymchuk_wpf\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-05T18:47:34.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T18:47:34.021Z"
             },
             {
               "$type": "Document",
@@ -133,8 +129,7 @@
               "RelativeToolTip": "trokhymchuk_wpf\\Views\\MainWindow.xaml.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAnwB8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T17:29:53.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T17:29:53.879Z"
             },
             {
               "$type": "Document",
@@ -146,8 +141,7 @@
               "RelativeToolTip": "trokhymchuk_wpf\\ViewModels\\PersonViewModel.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAIwEkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T22:31:06.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T22:31:06.067Z"
             },
             {
               "$type": "Document",
@@ -159,8 +153,7 @@
               "RelativeToolTip": "trokhymchuk_wpf\\Models\\PersonList.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T18:25:10.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T18:25:10.653Z"
             }
           ]
         }
