@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\exceptions\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\exceptions\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\exceptions\\invalidemailexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\exceptions\\toooldexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\exceptions\\toooldexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|c:\\users\\master\\desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\exceptions\\birthdayinfutureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC5FBC4-06EA-4258-BFA9-DB6B071F3B9C}|trokhymchuk_wpf\\trokhymchuk_wpf.csproj|solutionrelative:trokhymchuk_wpf\\exceptions\\birthdayinfutureexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TooOldException.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\Exceptions\\TooOldException.cs",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\Exceptions\\TooOldException.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\Exceptions\\TooOldException.cs",
+              "RelativeToolTip": "trokhymchuk_wpf\\Exceptions\\TooOldException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:38:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BirthDayInFutureException.cs",
+              "DocumentMoniker": "C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\Exceptions\\BirthDayInFutureException.cs",
+              "RelativeDocumentMoniker": "trokhymchuk_wpf\\Exceptions\\BirthDayInFutureException.cs",
+              "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\Exceptions\\BirthDayInFutureException.cs",
+              "RelativeToolTip": "trokhymchuk_wpf\\Exceptions\\BirthDayInFutureException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:38:37.887Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -32,7 +66,7 @@
               "RelativeDocumentMoniker": "trokhymchuk_wpf\\Exceptions\\InvalidEmailException.cs",
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\Exceptions\\InvalidEmailException.cs",
               "RelativeToolTip": "trokhymchuk_wpf\\Exceptions\\InvalidEmailException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T10:48:52.581Z",
               "EditorCaption": ""
@@ -45,7 +79,7 @@
               "RelativeDocumentMoniker": "trokhymchuk_wpf\\Models\\Person.cs",
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\Models\\Person.cs",
               "RelativeToolTip": "trokhymchuk_wpf\\Models\\Person.cs",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAiwK8AAAANAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwEAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T10:42:33.499Z",
               "EditorCaption": ""
@@ -58,7 +92,7 @@
               "RelativeDocumentMoniker": "trokhymchuk_wpf\\ViewModels\\PersonViewModel.cs",
               "ToolTip": "C:\\Users\\master\\Desktop\\csharp_course\\3\\trokhymchuk_wpf\\trokhymchuk_wpf\\ViewModels\\PersonViewModel.cs",
               "RelativeToolTip": "trokhymchuk_wpf\\ViewModels\\PersonViewModel.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAswEUAAAAqAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwEUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T22:31:06.067Z",
               "EditorCaption": ""
